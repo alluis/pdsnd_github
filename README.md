@@ -1,4 +1,4 @@
-### Date created
+### creation date
 22/09/2020
 
 ### Project Title
@@ -8,7 +8,7 @@ Bikeshare studio
 Extract some insights from bikeshare data to improve the service
 
 ### Files used
-chicago.csv, new_york_city.csv, washington.csv
+Chicago.csv, new_york_city.csv, washington.csv
 
-### Credits
-githb.com, stackoverflow.com
+### Credits. It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+github.com and stackoverflow.com
