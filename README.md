@@ -8,7 +8,7 @@ Bikeshare studio
 Data analysis to get insights
 
 ### Files used
-Chicago.csv, new_york_city.csv, boston.csv
+Chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 github.com and stackoverflow.com
