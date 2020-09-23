@@ -5,7 +5,7 @@
 Bikeshare studio
 
 ### Description
-Extract some insights from bikeshare data
+Extract some insights from bikeshare data to improve the service
 
 ### Files used
 chicago.csv, new_york_city.csv, washington.csv
