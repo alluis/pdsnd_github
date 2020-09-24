@@ -34,7 +34,7 @@ def get_filters():
             #If we don't get a valid selection
             print("\nWe are sorry, you have selected a not valid city. Please, try again.\n")
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , june).CHANGE MADE FOR VC PROJECT 1
 
     month = ''
     while month.lower() not in month_names:
@@ -74,7 +74,7 @@ def load_data(city, month, day):
         Returns:
             df - Pandas DataFrame containing city data filtered by month and day
     """
-    #load data
+    #load data. change for vc project
     df = pd.read_csv(CITY_DATA[city])
     # Convert to datetime
     df['Start Time'] = pd.to_datetime(df['Start Time'])
