@@ -34,7 +34,7 @@ def get_filters():
             #If we don't get a valid selection
             print("\nWe are sorry, you have selected a not valid city. Please, try again.\n")
 
-    # TO DO: get user input for month (all, january, february, ... , june)
+    # TO DO: get user input for month (all, january, february, ... , june).CHANGE MADE FOR VC PROJECT 1
 
     month = ''
     while month.lower() not in month_names:
